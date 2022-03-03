@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/go-mysql-org/go-mysql/client"
+	"github.com/qq906907952/go-mysql/client"
 	. "github.com/pingcap/check"
 )
 
